@@ -1,0 +1,29 @@
+.signup-container {
+    padding: 0 20%;
+}
+
+.card {
+    padding: 7%; 
+    margin-top: 7%;
+    border-radius: 25px;
+    box-shadow: 2px 1px 4px 3px rgb(180, 174, 174);
+}
+
+.signup-container h4 {
+    margin-bottom: 3%;
+    font-weight: 600;
+}
+
+.signup-container .register {
+    margin-top: 5%;
+}
+
+.row .input-field {
+    margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .signup-container {
+        padding: 0 5%;
+    }
+  }
